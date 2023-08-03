@@ -1,4 +1,4 @@
-**# On2 open jobs (enviar curriculo para jimmy@on2.dev)**
+**# On2 open jobs (acessar [https://www.on2.dev/career](https://www.on2.dev/career))**
 
 ➡ **Full Stack Engineer**  
 
